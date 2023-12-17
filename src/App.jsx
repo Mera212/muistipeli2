@@ -4,11 +4,11 @@ import { useState } from "react";
 import "./App.css";
 import Card from "./components/Card";
 import pic1 from "../src/pic1.jpeg";
-import pic2 from "../src/pic2.png";
-import pic3 from "../src/pic3.png";
-import pic4 from "../src/pic4.png";
-import pic5 from "../src/pic5.png";
-import pic6 from "../src/pic6.png";
+import pic2 from "../src/pic2.jpeg";
+import pic3 from "../src/pic3.jpeg";
+import pic4 from "../src/pic4.jpeg";
+import pic5 from "../src/pic5.jpeg";
+import pic6 from "../src/pic6.jpeg";
 
 function App() {
   const [cards, setCards] = useState(null);
