@@ -1,7 +1,7 @@
 {
   "name": "muistipeli",
   "version": "0.0.0",
-  "homepage": "https://mera212.github.io/Ohjelmointikehitys1.5",
+  "homepage": "https://mera212.github.io/muistipeli2",
   "private": false,
   "type": "module",
   "scripts": {
