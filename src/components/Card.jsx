@@ -3,7 +3,7 @@
   import { useState } from "react";
   import PropTypes from "prop-types";
   import "./Card.css";
-  import back from "../assets/back.png";
+  import back from "../assets/back.jpeg";
 
   const Card = ({ card, handleCardClick, disabled }) => {
     return (
